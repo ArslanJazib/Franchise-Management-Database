@@ -1,0 +1,2 @@
+# Franchise-Management-Database
+Database for a franchise that primarily is a fast-food chain. The database will allow the main branch to modify, add or remove a branch and allocate budget to each branch, check monthly sales and the main branch will have a system to manage its own employees as well as inspection and HR department the Main branch will also hire managers for each branch. Branch managers will manage the equipment, employees, menu, and managers will also keep track of the product supply.  
